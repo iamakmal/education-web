@@ -2,6 +2,7 @@ import AboutUs from "./components/AboutUs"
 import Navbar from "./components/Navbar"
 import Program from "./components/Program"
 import Slider from "./components/Slider"
+import Testimonial from "./components/Testimonial"
 
 function App() {
 
@@ -12,7 +13,7 @@ function App() {
         <Slider/>
         <AboutUs/>
         <Program/>
-        
+        <Testimonial/>
       </div>
       
     </>

@@ -26,7 +26,7 @@ export default function Program() {
 
   return (
     <>
-        <h1 className="text-5xl text-center mt-10">Our Programs</h1>
+        <h1 className="text-4xl text-center mt-10">Our Programs</h1>
         <h2 className="text-lg text-center text-gray-500 mb-10">What we offer to create Industry Ready Professionals</h2>
         <div className="flex justify-center items-center flex-wrap p-5 gap-5">
         {
