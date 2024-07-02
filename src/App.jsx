@@ -1,4 +1,5 @@
 import AboutUs from "./components/AboutUs"
+import Footer from "./components/Footer"
 import Navbar from "./components/Navbar"
 import Program from "./components/Program"
 import Slider from "./components/Slider"
@@ -14,6 +15,7 @@ function App() {
         <AboutUs/>
         <Program/>
         <Testimonial/>
+        <Footer/>
       </div>
       
     </>
